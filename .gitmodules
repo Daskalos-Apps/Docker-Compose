@@ -14,3 +14,9 @@
 [submodule "Situation-Assessment"]
 	path = Situation-Assessment
 	url = https://github.com/resilmesh2/Situation-Assessment
+[submodule "cybersecurity-chatbot"]
+	path = cybersecurity-chatbot
+	url = https://github.com/Daskalos-Apps/cybersecurity-chatbot
+[submodule "SentinelSphere-Dashboard"]
+	path = SentinelSphere-Dashboard
+	url = https://github.com/Daskalos-Apps/SentinelSphere-Dashboard
